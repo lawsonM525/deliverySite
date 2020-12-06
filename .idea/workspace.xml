@@ -25,7 +25,11 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8aa46d1-8c1c-4ef7-bc46-cbf5a0a8f644" name="Default Changelist" comment="" />
+    <list default="true" id="a8aa46d1-8c1c-4ef7-bc46-cbf5a0a8f644" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deliverySite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/deliverySite/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deliverySite/templates/registration/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,6 +56,11 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../tuckshop" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ok\Documents\GitHub\deliverySite" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
